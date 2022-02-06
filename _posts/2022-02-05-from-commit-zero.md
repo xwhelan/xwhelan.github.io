@@ -60,6 +60,9 @@ I love this. When the init script is done, I have a repository, ready to
 commit, with a sample unit test, idiomatic build scripts, and everything
 works. It's ready to hook up to GitHub Actions and light up a build badge.
 
+Further reading:
+[spring.io / Getting Started: Building Java Projects with Gradle](https://github.com/xwhelan/xwhelan.github.io/settings/hooks/341781725/deliveries)
+
 ## Everybody Gets a Scaffold
 
 I was starting to hate Python because nobody thinks they write good Python.
