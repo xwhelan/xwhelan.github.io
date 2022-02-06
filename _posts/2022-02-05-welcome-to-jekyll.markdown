@@ -8,7 +8,7 @@ tags: github jekyll homebrew ruby
 
 ### Overview
 
-How I set up this page live on Github Pages.
+How I set up this page live on GitHub Pages.
 
 ### Background
 
