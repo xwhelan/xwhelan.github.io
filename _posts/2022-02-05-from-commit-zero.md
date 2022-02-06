@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "From (commit) zero to (commit) one"
-date:   2022-02-05 21:00:00 -05:00
-categories: java tools
-tags: java jvm build shuhari scaffolding poetry
+date:   2022-02-05 21:00:00 -0500
+categories: rants
+tags: tooling java jvm build shuhari scaffolding poetry
 ---
 
 > A complex system that works is invariably found to have evolved from a
 > simple system that works.
-
----John Gall, _Systemantics_
+>
+> ---John Gall, _Systemantics_
 
 ## Getting to First Commit
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "Living in a(n) HTTPS world"
 date:   2022-02-05 18:27:00 -0500
-categories: mistakes web
-tags: github git proxy
+categories: postmortems
+tags: mistakes github git proxy
 ---
 
 ### TL;DR
