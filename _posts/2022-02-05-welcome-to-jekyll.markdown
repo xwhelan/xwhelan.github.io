@@ -2,8 +2,8 @@
 layout: post
 title:  "(Welcome to (Welcome to Jekyll))"
 date:   2022-02-05 17:02:15 -0500
-categories: tools bootstrapping
-tags: github jekyll homebrew ruby
+categories: spikes
+tags: tooling github jekyll homebrew ruby
 ---
 
 ### Overview
