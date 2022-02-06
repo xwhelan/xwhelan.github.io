@@ -1,6 +1,6 @@
-# xwhelan.github.io
+# [xwhelan.github.io](https://xwhelan.github.io)
 
-Repository for GitHub Pages for my personal blog
+Repository for GitHub Pages for [my personal blog](https://xwhelan.github.io)
 
 [![Jekyll Build / Deploy to Pages](https://github.com/xwhelan/xwhelan.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/xwhelan/xwhelan.github.io/actions/workflows/pages/pages-build-deployment)
 
