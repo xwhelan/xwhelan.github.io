@@ -1,5 +1,8 @@
 # Custom Dictionary Words
 libyaml
+peterwhelan
 plenv
 pyenv
+shuhari
+Systemantics
 webrick
