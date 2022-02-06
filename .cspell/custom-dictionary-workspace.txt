@@ -1,8 +1,17 @@
 # Custom Dictionary Words
+arity
+Bjarne
+CPAN
+getopts
 libyaml
+PCRE
 peterwhelan
+pipefail
 plenv
 pyenv
+regexes
+shellcheck
 shuhari
+Stroustrup
 Systemantics
 webrick
