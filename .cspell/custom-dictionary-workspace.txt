@@ -1,9 +1,14 @@
 # Custom Dictionary Words
+antipattern
 arity
 Bjarne
+boxify
 CPAN
+elif
+fanout
 getopts
 libyaml
+Oswalt
 PCRE
 peterwhelan
 pipefail
@@ -15,3 +20,4 @@ shuhari
 Stroustrup
 Systemantics
 webrick
+yrself

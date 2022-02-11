@@ -11,5 +11,5 @@ permalink: /about/
 > computer, cook a tasty meal, fight efficiently, die gallantly.
 >
 > Specialization is for insects.
-
----Robert A. Heinlein
+>
+> ---Robert A. Heinlein
