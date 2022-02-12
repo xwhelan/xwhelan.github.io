@@ -134,3 +134,7 @@ Think of who's going to maintain your code. Try to help them.
 > It's chaos. Be kind.
 >
 > ---Patton Oswalt
+
+## p.s. keep calm and rock out
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zj9Sv1JpmPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
