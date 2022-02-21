@@ -19,7 +19,9 @@ The other ones were tantalizing, so I sought out used physical copies of them. T
 
 There are other lists, [and they are all real](https://retrocomputing.stackexchange.com/q/10997)
 
+<!-- markdownlint-disable MD033 -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4U9MI0u2VIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- markdownlint-enable MD033 -->
 
 This has become the nucleus of a particular collection: textbooks and professional text on computer science and electrical engineering printed before 2000. For example: Rodnay Zaks' [_Programming the Z80_](https://archive.org/details/Programming_the_Z-80_2nd_Edition_1980_Rodnay_Zaks), but the Radio Shack edition.
 

@@ -1,13 +1,17 @@
 # Custom Dictionary Words
+allowfullscreen
 antipattern
 arity
+autoplay
 Bjarne
 boxify
 CPAN
 elif
 fanout
 getopts
+Kogge's
 libyaml
+operationalizing
 Oswalt
 PCRE
 peterwhelan
@@ -15,10 +19,14 @@ pipefail
 plenv
 pyenv
 regexes
+Rodnay
+runtimes
 shellcheck
 shuhari
 Stroustrup
+Sussman
 Systemantics
 Umberto
 webrick
 yrself
+Zaks
