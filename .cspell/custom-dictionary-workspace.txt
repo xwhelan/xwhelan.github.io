@@ -1,5 +1,6 @@
 # Custom Dictionary Words
 allowfullscreen
+antilibrary
 antipattern
 arity
 autoplay

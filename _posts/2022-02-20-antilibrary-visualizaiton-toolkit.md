@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "book haul visualization toolkit"
+title: "antilibrary visualization toolkit"
 date: 2022-02-12 21:05:00 -0500
-categories: []
-tags: []
+categories: ['antilibrary']
+tags: ['books', 'C++']
 ---
 
 > "It is better to build a serious trading card collection from 1960 to the present than to create a cursory art collection"
