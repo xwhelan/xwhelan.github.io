@@ -14,7 +14,9 @@ Staffing a moonbase requires a talent pipeline of highly qualified candidates, w
 
 So you, the hiring manager, write this job description.
 
-Yet you find that it's hard to find qualified candidates for janitors. Job description:
+Yet you find that it's hard to find qualified candidates for janitors.
+
+## Job Description
 
 > You are passionate about exploring the final frontier and pushing the
 > boundaries of what humanity even thinks is possible. We want you to
