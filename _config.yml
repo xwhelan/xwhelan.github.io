@@ -32,7 +32,7 @@ url: "https://xwhelan.github.io" # the base hostname & protocol for your site, e
 github_username:  xwhelan
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote-theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
