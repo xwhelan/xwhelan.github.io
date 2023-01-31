@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Living in a(n) HTTPS world"
 date:   2022-02-05 18:27:00 -0500
 categories: postmortems

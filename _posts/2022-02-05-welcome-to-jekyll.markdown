@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "(Welcome to (Welcome to Jekyll))"
 date:   2022-02-05 17:02:15 -0500
 categories: spikes

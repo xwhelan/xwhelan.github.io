@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "antilibrary visualization toolkit"
 date: 2022-02-12 21:05:00 -0500
 categories: ['antilibrary']

@@ -31,7 +31,7 @@ fi
 # Templated frontmatter to post
 cat << EOF > "${post_path}"
 ---
-layout: post
+layout: posts
 title: "${post_title}"
 date: ${post_time}
 categories: []

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "code yrself clean (part 1)"
 date: 2022-02-10 17:53:00 -0500
 categories: praxis

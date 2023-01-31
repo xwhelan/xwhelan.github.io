@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "a murmuration of languages"
 date: 2022-02-06 12:03:00 -0500
 categories: rants

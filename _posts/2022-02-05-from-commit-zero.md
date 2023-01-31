@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "From (commit) zero to (commit) one"
 date:   2022-02-05 21:00:00 -0500
 categories: rants
