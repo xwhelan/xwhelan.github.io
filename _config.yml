@@ -35,6 +35,7 @@ github_username:  xwhelan
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 defaults:
   - scope:
