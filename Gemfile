@@ -8,6 +8,6 @@ end
 
 group :development do
   gem "webrick", "~> 1.7"
-  gem "solargraph", "~> 0.44.3"
+  gem "solargraph", "~> 0.49.0"
   gem "rufo"
 end
